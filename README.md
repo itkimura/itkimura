@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### My github contribution 🚀
-<br>
 
 ![snake gif](https://github.com/itkimura/itkimura/blob/output/github-contribution-grid-snake.svg)
