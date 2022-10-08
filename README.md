@@ -6,7 +6,7 @@ I am a driven, outgoing and hard-working individual with a strong experience in 
 
 
 ### Follow me
-<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>    <img src='https://img.shields.io/github/followers/itkimura?style=social'/>
+<a href="https://www.linkedin.com/in/itkimura/"><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>    <img src='https://img.shields.io/github/followers/itkimura?style=social'/>
 
 
 ### Language and Tools
